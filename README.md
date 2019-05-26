@@ -1,4 +1,4 @@
-# coffee-maker
+# coffee-maker :coffee:
 
 An interactive reworking of [The Compendious Coffee Chart](https://popchart.co/products/the-compendious-coffee-chart).
 
